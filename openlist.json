@@ -1,3 +1,21 @@
 {
-  "百度一下，你就知道": "https://www.baidu.com/"
+  "百度": "https://www.baidu.com/",
+  "开源电子": "http://www.openedv.com/forum.php",
+  "pcb KICAD": "http://kicad-pcb.org/",
+  "微信": "https://wx.qq.com/",
+  "github DongInker git?inker1987": "https://github.com/login",
+  "git 图解": "http://marklodato.github.io/visual-git-guide/index-zh-cn.html",
+  "漳州": "http://zz.mnw.cn/news/",
+  "163": "https://mail.163.com/",
+  "潮汐": "https://www.cnss.com.cn/tide/",
+  "py  Python菜鸟教程": "https://www.runoob.com/python3/python3-examples.html",
+  "py3 库列表": "https://www.jianshu.com/p/07441ac78776",
+  "py3 标准库说明": "https://docs.python.org/3.6/library/index.html",
+  "py  社区": "https://www.pythontab.com/",
+  "B站 手机 ?bilibili": "https://www.bilibili.com/",
+  "pcb kicad各层说明": "http://haipeng.me/2017/09/04/kicad-pcbnew-layer/",
+  "pcb 嘉立创工艺说明": "https://www.sz-jlc.com/portal/t7i1325.html",
+  "pcb kicad器件说明": "https://blog.csdn.net/yannanxiu/article/details/52643410",
+  "F7与H7核心板设计": "http://blog.sina.com.cn/s/blog_d176d1ec0102xs4y.html",
+  "igbt驱动消除米勒电容": "https://wenku.baidu.com/view/1e6a42d349649b6648d747f6.html"
 }
